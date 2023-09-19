@@ -1,8 +1,12 @@
 # Artificial Intelligence (COMP6065001) #
 
-BINUS University, Jakarta, Indonesia\n
-Instructor: Zhandos Yessenbayev\n
-Semester: Odd Semester, 2023\n
+BINUS University, Jakarta, Indonesia
+
+Instructor: Zhandos Yessenbayev
+
+Semester: Odd Semester, 2023
+
+
 
 This is a supplementary resource to support the Artificial Intelligence (COMP6065001) course at BINUS University.
 
